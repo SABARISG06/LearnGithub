@@ -3,3 +3,5 @@ Github != GIT
 Basic Terminologies.
 
 1. Repositiories => a folder contains all the files related to a project
+
+2. ReadMeFile => Basic instruction about the project
