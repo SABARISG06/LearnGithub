@@ -1,0 +1,5 @@
+Github != GIT
+
+Basic Terminologies.
+
+1. Repositiories => a folder contains all the files related to a project
